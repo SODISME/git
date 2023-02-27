@@ -12,8 +12,6 @@ b1 change2
 b2 change1
 b2 change2
 version 10
-<<<<<<< HEAD
 version 11
-=======
 new b1 change1
->>>>>>> b1
+new b1 change2
