@@ -7,5 +7,10 @@ version 6
 version 7
 version 8
 version 9
+<<<<<<< HEAD
 b1 change1
 b1 change2
+=======
+b2 change1
+b2 change2
+>>>>>>> b2
